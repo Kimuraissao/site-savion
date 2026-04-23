@@ -1,11 +1,16 @@
+@charset "UTF-8";
 
 body{
-    background-color: black
+    background-color: black;
 }
-
 main{
     background-color: rgb(39, 39, 39);
     margin: 25px;
+    border-radius: 5px;
+}
+
+main fieldset{
+    margin: 10px;
     border-radius: 5px;
 }
 
@@ -26,5 +31,5 @@ main p {
 }
 
 .fim{
-   margin-left: 120px;
+   margin: 10px;
 }
