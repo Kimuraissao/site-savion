@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+h1{
+    text-align: center;
+    margin: 10px;
+}
+  
+
+html{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #988193;
+}
+
+fieldset{
+    margin-left:10px;
+    margin-bottom: 10px;
+    background-color: rgba(209, 209, 209, 0.685);
+    border-collapse: collapse;
+    height: 80px;
+    text-align: left;
+}
+
+p{
+    font-weight: bolder;
+    margin-top: 18px;
+    margin-left: 10px;
+}
+
+input{
+    box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.308);
+    box-shadow: inset 1px 1px 4px rgba(0, 0, 0, 0.658);
+}
